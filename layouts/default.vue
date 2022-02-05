@@ -50,7 +50,7 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Главаная',
+          title: 'Главная',
           to: '/',
         },
         {
@@ -64,7 +64,7 @@ export default {
           to: '/animals',
         },
       ],
-      title: 'Фермерский роддом ',
+      title: 'Фермерский роддом №5 ',
     }
   },
 }
