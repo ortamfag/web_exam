@@ -8,6 +8,12 @@ export default {
     htmlAttrs: {
       lang: 'en'
     },
+
+    target: 'static',
+    router: {
+      base: '/web_exam/'
+    },
+
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
